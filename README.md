@@ -4,6 +4,7 @@
 
 [![Website](https://img.shields.io/badge/Website-rig--website-0a0f1a?style=for-the-badge&logo=vercel&logoColor=white)](https://rig-website-olive.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rodgers%20Intelligence%20Group-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/rodgers-intelligence-group)
+[![X](https://img.shields.io/badge/X-@rodgers33716-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rodgers33716)
 [![Status](https://img.shields.io/badge/Status-Available%20for%20Advisory-brightgreen?style=for-the-badge)]()
 
 </div>
@@ -43,17 +44,19 @@ class RodgersIntelligenceGroup:
 
 ### `> ls featured_work/`
 
+> Repos are private — [reach out](https://rig-website-olive.vercel.app) for access to source code and demos.
+
 <table>
 <tr>
 <td width="50%">
 
-**[Startup Intelligence OS](https://github.com/rodgemd1-lgtm/Startup-Intelligence-OS)**
+**Startup Intelligence OS**
 Decision & Capability Operating System. Multi-agent architecture with Susan (capability foundry) and Jake (operator layer). Full IntOps implementation.
 
 </td>
 <td width="50%">
 
-**[Oracle Health Vendor Intelligence](https://github.com/rodgemd1-lgtm/oracle-health-vendor-intelligence)**
+**Healthcare Vendor Intelligence**
 Provider install base vendor intelligence across 10 categories. Data-driven competitive analysis from Definitive Healthcare.
 
 </td>
@@ -61,13 +64,13 @@ Provider install base vendor intelligence across 10 categories. Data-driven comp
 <tr>
 <td width="50%">
 
-**[Alex Recruiting](https://github.com/rodgemd1-lgtm/alex-recruiting)**
+**Alex Recruiting**
 Automated outreach Chrome extension with lead scraping, multi-step campaigns, A/B testing, and analytics.
 
 </td>
 <td width="50%">
 
-**[UX Design Scraper](https://github.com/rodgemd1-lgtm/ux-design-scraper)**
+**UX Design Scraper**
 Double Black Box AI Design Intelligence Platform. 7-phase automated UX/UI workflow with Chrome extension.
 
 </td>
