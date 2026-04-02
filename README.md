@@ -1,16 +1,109 @@
-## Hi there 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1a,50:1a2744,100:4f8fff&height=200&section=header&text=Mike%20Rodgers&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=AI%20Operations%20%7C%20Fractional%20CAIO%20%7C%20Intelligence%20Operator&descSize=16&descAlignY=55&descColor=ff6b35&animation=fadeIn"/>
 
-<!--
-**rodgemd1-lgtm/rodgemd1-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+[![Website](https://img.shields.io/badge/Website-rig--website-0a0f1a?style=for-the-badge&logo=vercel&logoColor=white)](https://rig-website-olive.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rodgers%20Intelligence%20Group-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/rodgers-intelligence-group)
+[![Status](https://img.shields.io/badge/Status-Available%20for%20Advisory-brightgreen?style=for-the-badge)]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### `> whoami`
+
+I'm an AI operations architect who builds intelligence systems that run businesses — not demos that impress boardrooms.
+
+**20+ years** leading enterprise operations across healthcare, M&A integration, and large-scale transformation. **134+ AI agents** in production. **$4B** in M&A integrations operated.
+
+I founded **Rodgers Intelligence Group** because the market is flooded with AI strategy decks and starved for people who can actually make it work.
+
+```
+95% of AI pilots fail. The other 5% have an operator. I'm the operator.
+```
+
+---
+
+### `> current_focus`
+
+```python
+class RodgersIntelligenceGroup:
+    role = "Founder & AI Operating Partner"
+    focus = [
+        "Fractional Chief AI Officer",
+        "AI Operating Partner (PE)",
+        "30-Day AI Automation Sprints",
+    ]
+    framework = "IntOps — Intelligence Operations"
+    stack = ["Claude", "MCP", "Python", "Multi-Agent Systems", "RAG"]
+    location = "Denver, CO"
+```
+
+---
+
+### `> ls featured_work/`
+
+<table>
+<tr>
+<td width="50%">
+
+**[Startup Intelligence OS](https://github.com/rodgemd1-lgtm/Startup-Intelligence-OS)**
+Decision & Capability Operating System. Multi-agent architecture with Susan (capability foundry) and Jake (operator layer). Full IntOps implementation.
+
+</td>
+<td width="50%">
+
+**[Oracle Health Vendor Intelligence](https://github.com/rodgemd1-lgtm/oracle-health-vendor-intelligence)**
+Provider install base vendor intelligence across 10 categories. Data-driven competitive analysis from Definitive Healthcare.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[Alex Recruiting](https://github.com/rodgemd1-lgtm/alex-recruiting)**
+Automated outreach Chrome extension with lead scraping, multi-step campaigns, A/B testing, and analytics.
+
+</td>
+<td width="50%">
+
+**[UX Design Scraper](https://github.com/rodgemd1-lgtm/ux-design-scraper)**
+Double Black Box AI Design Intelligence Platform. 7-phase automated UX/UI workflow with Chrome extension.
+
+</td>
+</tr>
+</table>
+
+---
+
+### `> cat intops_framework.md`
+
+**IntOps** (Intelligence Operations) is the operating model that makes AI stick inside a business:
+
+| Layer | Function |
+|:------|:---------|
+| `L1` Memory | Persistent context across every interaction |
+| `L2` Tool Use | AI connected to your actual systems |
+| `L3` Orchestration | Multi-agent coordination at scale |
+| `L4` Feedback Loops | Continuous learning from production |
+| `L5` Improvement | The system gets better without you touching it |
+
+---
+
+### `> stats --compact`
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rodgemd1-lgtm&theme=tokyonight&hide_border=true&background=0a0f1a&ring=4f8fff&fire=ff6b35&currStreakLabel=ffffff&sideLabels=ffffff&dates=666666" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=rodgemd1-lgtm&color=4f8fff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4f8fff,50:1a2744,100:0a0f1a&height=100&section=footer"/>
