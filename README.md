@@ -1,112 +1,148 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1a,50:1a2744,100:4f8fff&height=200&section=header&text=Mike%20Rodgers&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=AI%20Operations%20%7C%20Fractional%20CAIO%20%7C%20Intelligence%20Operator&descSize=16&descAlignY=55&descColor=ff6b35&animation=fadeIn"/>
+# rodgemd1-lgtm
 
-<div align="center">
+![status](https://img.shields.io/badge/status-active-public-blue) ![lane](https://img.shields.io/badge/lane-public-web-purple) ![visibility](https://img.shields.io/badge/visibility-public-lightgrey) ![qnap](https://img.shields.io/badge/qnap-qnap-verified-green) ![proof](https://img.shields.io/badge/proof-required-red)
 
-[![Website](https://img.shields.io/badge/Website-rig--website-0a0f1a?style=for-the-badge&logo=vercel&logoColor=white)](https://rig-website-olive.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rodgers%20Intelligence%20Group-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/rodgers-intelligence-group)
-[![X](https://img.shields.io/badge/X-@rodgers33716-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rodgers33716)
-[![Status](https://img.shields.io/badge/Status-Available%20for%20Advisory-brightgreen?style=for-the-badge)]()
+## 30-Second Pitch
 
-</div>
+GitHub profile README for Mike Rodgers / Rodgers Intelligence Group. Evidence from the tracked tree: no framework signal detected from tree scan.
 
----
+## Live State
 
-### `> whoami`
+| Field | Value |
+| --- | --- |
+| GitHub | https://github.com/rodgemd1-lgtm/rodgemd1-lgtm |
+| QNAP canonical/mirror | `ssh://git@nas94f2ae.tail4d96b3.ts.net:2222/rig/rodgemd1-lgtm.git` |
+| Lane | `public-web` - public identity and web surfaces |
+| Visibility | `public` |
+| Primary language | `UNKNOWN` |
+| Last pushed | `2026-04-02T13:03:53Z` |
+| QNAP status | `imported_to_qnap_gitea` |
+| QNAP HEAD | `2340a353cb84` |
+| Consolidation action | `keep-public-profile` |
+| Canonical target | `rodgemd1-lgtm` |
 
-I'm an AI operations architect who builds intelligence systems that run businesses — not demos that impress boardrooms.
+## Doctrine Spine
 
-**20+ years** leading enterprise operations across healthcare, M&A integration, and large-scale transformation. **134+ AI agents** in production. **$4B** in M&A integrations operated.
+- README standard: [github-readme-standard.md](https://github.com/rodgemd1-lgtm/Startup-Intelligence-OS/blob/claude/rig-sovereign-audit-mesh/docs/repositories/github-readme-standard.md)
+- Repo deep dive: [rodgemd1-lgtm](https://github.com/rodgemd1-lgtm/Startup-Intelligence-OS/blob/claude/rig-sovereign-audit-mesh/docs/repositories/repo-deep-dives/rodgemd1-lgtm.md)
+- GitHub estate map: [github-estate.md](https://github.com/rodgemd1-lgtm/Startup-Intelligence-OS/blob/claude/rig-sovereign-audit-mesh/docs/repositories/github-estate.md)
+- Source of truth: [source-of-truth.md](https://github.com/rodgemd1-lgtm/Startup-Intelligence-OS/blob/claude/rig-sovereign-audit-mesh/docs/source-of-truth.md)
+- Consolidation queue: [repo-consolidation-plan.md](https://github.com/rodgemd1-lgtm/Startup-Intelligence-OS/blob/claude/rig-sovereign-audit-mesh/docs/repositories/repo-consolidation-plan.md)
+- Source-truth hygiene: [source-truth-hygiene.md](https://github.com/rodgemd1-lgtm/Startup-Intelligence-OS/blob/claude/rig-sovereign-audit-mesh/docs/operator/source-truth-hygiene.md)
 
-I founded **Rodgers Intelligence Group** because the market is flooded with AI strategy decks and starved for people who can actually make it work.
+## What This Repo Contains
 
+1 data/config/knowledge-like files; 1 docs/notes; 0 media/design assets; 0 sensitive-path-name matches.
+
+Detected manifests:
+
+- No package/deploy manifest from the standard hint list.
+
+Detected runtime/build signals:
+
+- No framework or deployment signal detected from the tracked tree.
+
+## File Map
+
+1 tracked files across 0 directories. Code files: 0. Test files: 0. 1 data/config/knowledge-like files; 1 docs/notes; 0 media/design assets; 0 sensitive-path-name matches.
+
+Aggregate GitHub tree size: `3.8 KB` across `1` blobs.
+GitHub recursive tree truncated: `false`.
+
+Top directory size map:
+
+| Root | Bytes | Files |
+| --- | ---: | ---: |
+| `.` | 3.8 KB | 1 |
+
+Top tracked directories or roots:
+
+- `. (1)`
+
+Dominant file extensions:
+
+- `.md`: 1
+
+Full public inventory: [rodgemd1-lgtm.txt](https://github.com/rodgemd1-lgtm/Startup-Intelligence-OS/blob/claude/rig-sovereign-audit-mesh/docs/repositories/repo-file-inventories/rodgemd1-lgtm.txt)
+
+Private repo note: central public estate docs must not expose raw private paths. This repo README uses aggregate counts, categories, and proof links unless Mike approves deeper disclosure.
+
+## Runtime / Topology
+
+```text
+Mike / Jake / Codex
+        |
+        v
+QNAP Gitea canonical repo
+        |
+        v
+GitHub mirror / collaboration surface
+        |
+        v
+Local worktree / CI / deployment
 ```
-95% of AI pilots fail. The other 5% have an operator. I'm the operator.
+
+## Provider And Fallback Protocol
+
+| Rank | Provider / tool | Use | Status |
+| ---: | --- | --- | --- |
+| 1 | Repo-local deterministic scripts | Build/test/proof first path | required |
+| 2 | QNAP Gitea | Canonical Git source | required |
+| 3 | GitHub | Mirror/collaboration surface | required |
+| 4 | MCP/CLI tools | Only when repo owns an integration | document if applicable |
+| 5 | Human approval | Public/destructive/private-data changes | required |
+
+## Setup
+
+```bash
+git clone ssh://git@nas94f2ae.tail4d96b3.ts.net:2222/rig/rodgemd1-lgtm.git
+cd rodgemd1-lgtm
+# Install using the package manager or runtime detected above.
 ```
 
----
+## Verify
 
-### `> current_focus`
-
-```python
-class RodgersIntelligenceGroup:
-    role = "Founder & AI Operating Partner"
-    focus = [
-        "Fractional Chief AI Officer",
-        "AI Operating Partner (PE)",
-        "30-Day AI Automation Sprints",
-    ]
-    framework = "IntOps — Intelligence Operations"
-    stack = ["Claude", "MCP", "Python", "Multi-Agent Systems", "RAG"]
-    location = "Denver, CO"
+```bash
+# Run repo-specific tests, lint, typecheck, build, or smoke commands.
+# If no command exists yet, add one before promoting this README to final.
 ```
 
----
+## Release And Proof Protocol
 
-### `> ls featured_work/`
+1. Work on a branch with a clear prefix.
+2. Run setup and verification commands.
+3. Record a ProofPacket with commit SHA, checks, artifacts, and rollback path.
+4. Push to QNAP Gitea first.
+5. Verify GitHub mirrors the same result.
 
-> Repos are private — [reach out](https://rig-website-olive.vercel.app) for access to source code and demos.
+## Data And Security Boundary
 
-<table>
-<tr>
-<td width="50%">
+- Visibility: `public`.
+- Never commit secrets, tokens, cookies, browser state, raw credentials, or unapproved private exports.
+- Private data should be referenced by source path, count, category, or fingerprint unless the repo itself is the approved private home.
 
-**Startup Intelligence OS**
-Decision & Capability Operating System. Multi-agent architecture with Susan (capability foundry) and Jake (operator layer). Full IntOps implementation.
+## Roadmap
 
-</td>
-<td width="50%">
+- V0: Repo exists and is mirrored.
+- V1: Cold-reader README explains purpose, setup, verification, and proof.
+- V2: File map, data boundary, and branch policy are documented.
+- V3: CLI/MCP contracts are explicit where the repo owns tools.
+- V4: Tests, smoke checks, and deployment protocol are reproducible.
+- V5: ProofPacket path records every release or meaningful migration.
+- V6: Consolidation action is resolved: `keep-public-profile`.
+- V7: Source cards and capability manifests feed Jake/Susan routing.
+- V8: Monitoring and branch hygiene are automated.
+- V9: Repo is boring to operate because all paths are canonical.
+- V10: Repo is either a clean canonical product surface or archived with proof.
 
-**Healthcare Vendor Intelligence**
-Provider install base vendor intelligence across 10 categories. Data-driven competitive analysis from Definitive Healthcare.
+## What Is Left
 
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**Alex Recruiting**
-Automated outreach Chrome extension with lead scraping, multi-step campaigns, A/B testing, and analytics.
-
-</td>
-<td width="50%">
-
-**UX Design Scraper**
-Double Black Box AI Design Intelligence Platform. 7-phase automated UX/UI workflow with Chrome extension.
-
-</td>
-</tr>
-</table>
+- Add or maintain a cold-reader README, setup command, test command, and ProofPacket path.
+- Keep GitHub topics, description, QNAP mirror, and consolidation status current.
 
 ---
 
-### `> cat intops_framework.md`
-
-**IntOps** (Intelligence Operations) is the operating model that makes AI stick inside a business:
-
-| Layer | Function |
-|:------|:---------|
-| `L1` Memory | Persistent context across every interaction |
-| `L2` Tool Use | AI connected to your actual systems |
-| `L3` Orchestration | Multi-agent coordination at scale |
-| `L4` Feedback Loops | Continuous learning from production |
-| `L5` Improvement | The system gets better without you touching it |
-
----
-
-### `> stats --compact`
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rodgemd1-lgtm&theme=tokyonight&hide_border=true&background=0a0f1a&ring=4f8fff&fire=ff6b35&currStreakLabel=ffffff&sideLabels=ffffff&dates=666666" alt="GitHub Streak"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=rodgemd1-lgtm&color=4f8fff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4f8fff,50:1a2744,100:0a0f1a&height=100&section=footer"/>
+README applied from the central RIG blueprint.
+- Blueprint source: `https://github.com/rodgemd1-lgtm/Startup-Intelligence-OS/blob/claude/rig-sovereign-audit-mesh/docs/repositories/repo-readme-blueprints/rodgemd1-lgtm.md`
+- Applied target: `rodgemd1-lgtm`
+- Source of truth: QNAP Gitea first, GitHub mirror second.
