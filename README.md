@@ -146,3 +146,49 @@ README applied from the central RIG blueprint.
 - Blueprint source: `https://github.com/rodgemd1-lgtm/Startup-Intelligence-OS/blob/claude/rig-sovereign-audit-mesh/docs/repositories/repo-readme-blueprints/rodgemd1-lgtm.md`
 - Applied target: `rodgemd1-lgtm`
 - Source of truth: QNAP Gitea first, GitHub mirror second.
+
+<!-- RIG-CLI:START -->
+## Install The CLI
+
+This repo exposes a standard RIG command so it can be installed, inspected,
+cloned, and routed into future studio/MCP workflows without guessing its
+internal layout.
+
+Install without cloning:
+
+```bash
+curl -fsSL https://github.com/rodgemd1-lgtm/rodgemd1-lgtm/raw/main/install.sh | bash
+```
+
+Install and clone the source-of-truth repo:
+
+```bash
+curl -fsSL https://github.com/rodgemd1-lgtm/rodgemd1-lgtm/raw/main/install.sh | RIG_CLI_CLONE=1 bash
+```
+
+Use it:
+
+```bash
+rodgemd1-lgtm info
+rodgemd1-lgtm capabilities
+rodgemd1-lgtm services
+rodgemd1-lgtm clone
+rodgemd1-lgtm doctor
+```
+
+Clone manually:
+
+```bash
+git clone ssh://git@nas94f2ae.tail4d96b3.ts.net:2222/rig/rodgemd1-lgtm.git
+git clone https://github.com/rodgemd1-lgtm/rodgemd1-lgtm.git
+```
+
+CLI contract:
+
+- Command: `rodgemd1-lgtm`
+- Manifest: `cli/manifest.json`
+- Installer: `install.sh`
+- Source of truth: QNAP Gitea first, GitHub mirror second
+- Standard: [https://github.com/rodgemd1-lgtm/Startup-Intelligence-OS/blob/claude/rig-sovereign-audit-mesh/docs/repositories/repo-cli-standard.md](https://github.com/rodgemd1-lgtm/Startup-Intelligence-OS/blob/claude/rig-sovereign-audit-mesh/docs/repositories/repo-cli-standard.md)
+
+<!-- RIG-CLI:END -->

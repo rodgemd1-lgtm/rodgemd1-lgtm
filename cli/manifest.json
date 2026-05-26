@@ -1,0 +1,37 @@
+{
+  "capabilities": [
+    "Installable repo CLI entrypoint",
+    "Source-of-truth clone routing",
+    "README and capability discovery",
+    "public-web capability surface"
+  ],
+  "command": "rodgemd1-lgtm",
+  "description": "GitHub profile README for Mike Rodgers / Rodgers Intelligence Group.",
+  "github": {
+    "clone": "https://github.com/rodgemd1-lgtm/rodgemd1-lgtm.git",
+    "mirror": "https://github.com/rodgemd1-lgtm/rodgemd1-lgtm"
+  },
+  "install": {
+    "clone_optional": true,
+    "default_install_dir": "~/.local/bin",
+    "script": "install.sh"
+  },
+  "lane": "public-web",
+  "lane_label": "public identity and web surfaces",
+  "name": "rodgemd1-lgtm",
+  "primary_language": "",
+  "proof": {
+    "generated_at": "2026-05-26T18:46:45Z",
+    "generated_by": "scripts/repositories/apply_repo_cli_contract.py",
+    "standard": "https://github.com/rodgemd1-lgtm/Startup-Intelligence-OS/blob/claude/rig-sovereign-audit-mesh/docs/repositories/repo-cli-standard.md"
+  },
+  "schema": "rig.repo-cli.v1",
+  "service_commands": [],
+  "slug": "rodgemd1-lgtm",
+  "source_of_truth": {
+    "clone": "ssh://git@nas94f2ae.tail4d96b3.ts.net:2222/rig/rodgemd1-lgtm.git",
+    "type": "qnap-gitea"
+  },
+  "status": "active-public",
+  "visibility": "public"
+}
