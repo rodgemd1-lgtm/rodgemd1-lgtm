@@ -26,7 +26,23 @@
     "standard": "https://github.com/rodgemd1-lgtm/Startup-Intelligence-OS/blob/claude/rig-sovereign-audit-mesh/docs/repositories/repo-cli-standard.md"
   },
   "schema": "rig.repo-cli.v1",
-  "service_commands": [],
+  "service_commands": [
+    {
+      "name": "smoke",
+      "command": "bash scripts/smoke.sh",
+      "description": "Deterministic local smoke check — no credentials or network required"
+    },
+    {
+      "name": "doctor",
+      "command": "bin/rodgemd1-lgtm doctor",
+      "description": "Check local dependencies and remote reachability"
+    },
+    {
+      "name": "proof",
+      "command": "bash scripts/write-proof.sh",
+      "description": "Write/refresh the proof document in proof/looper-v10-cockpit/"
+    }
+  ],
   "slug": "rodgemd1-lgtm",
   "source_of_truth": {
     "clone": "ssh://git@nas94f2ae.tail4d96b3.ts.net:2222/rig/rodgemd1-lgtm.git",

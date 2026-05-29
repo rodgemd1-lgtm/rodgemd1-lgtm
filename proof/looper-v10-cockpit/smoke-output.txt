@@ -1,0 +1,12 @@
+[PASS] file exists: README.md
+[PASS] file exists: bin/rodgemd1-lgtm
+[PASS] file exists: install.sh
+[PASS] file exists: cli/manifest.json
+[PASS] bin/rodgemd1-lgtm is executable
+[PASS] cli/manifest.json is valid JSON
+[PASS] agent instructions present
+[PASS] MCP posture declared
+[PASS] proof directory exists
+[PASS] no obvious secret patterns
+
+10 passed, 0 failed
